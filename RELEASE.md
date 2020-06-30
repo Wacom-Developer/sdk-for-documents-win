@@ -1,4 +1,4 @@
-# SDK for Documents - Windows
+# Wacom Ink SDK for documents - Windows
 
 ## Version 2.0.0
 

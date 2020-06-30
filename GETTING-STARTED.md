@@ -5,13 +5,13 @@
 The sample application is supplied for Windows 7 and above to demonstrate using the SDK.
 
 
-## Download the SDK for documents
+## Download the Wacom Ink SDK for documents
 
 Download the SDK from https://developer.wacom.com/developer-dashboard
 
 * Login using your Wacom ID
 * Select **Downloads for documents**
-* Download **Documents SDK for Windows Desktop**
+* Download **Wacom Ink SDK for documents for Windows Desktop**
 * Accept the End User License Agreement to use the SDK
 
 The downloaded Zip file contains the SDK with documentation.
