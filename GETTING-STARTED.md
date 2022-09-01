@@ -58,7 +58,9 @@ The following steps describe how to build and run the unit tests:
   
 * Build the application
 * Display the Visual Studio Test Explorer (Test...Windows...Test Explorer)
-* Run a test by selecting it for run/debug in the  Test Explorer
+* In the Samples folder, there exist a number of PDFs. Using the Test Explorer allows the user to run tests that generate edited versions of the PDFs contained within the sample folder. 
+* Run a test by selecting it for run/debug in the Test Explorer
+* You can then view the new document within the Samples folder.
       
 ![baxter demo](media/baxter-sample.png)
   
