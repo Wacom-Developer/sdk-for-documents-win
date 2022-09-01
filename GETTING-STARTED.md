@@ -51,6 +51,11 @@ The following steps describe how to build and run the unit tests:
 ```
     static readonly string eval_license = "your-license-string";
 ```
+* Add a reference to the BaXter DLL. To do this in Visual Studio:
+  - Right-click BaXter Usage Samples.
+  - Select Add -> Reference -> Browse, then browse to the folder where the SDK is located. 
+  - Select BaXter.dll. 
+  
 * Build the application
 * Display the Visual Studio Test Explorer (Test...Windows...Test Explorer)
 * Run a test by selecting it for run/debug in the  Test Explorer
