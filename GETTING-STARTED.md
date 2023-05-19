@@ -1,5 +1,8 @@
 # Getting Started 
 
+> **Important Note:**
+> This series of Wacom products is now discontinued and support for them is no longer offered.
+
 ## Development Environment
 
 The sample application is supplied for Windows 7 and above to demonstrate using the SDK.
