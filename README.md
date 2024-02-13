@@ -32,12 +32,12 @@ Samples are included to help get started with the SDK.
 For further samples check Wacom's Developer additional samples, see [https://github.com/Wacom-Developer](https://github.com/Wacom-Developer)
 
 ## Documentation
-For further details on using the SDK see [Wacom Ink SDK for documents documentation](http://developer-docs.wacom.com/sdk-for-documents/) 
+For further details on using the SDK see [Wacom Ink SDK for documents documentation](https://developer-docs.wacom.com/docs/overview/discontinued-sdks/sdk-for-documents/) 
 
 The API Reference is available directly in the downloaded SDK.
 
 ## Support
-If you experience issues with the technology components, please see related [FAQs](https://developer-support.wacom.com/hc/en-us)
+If you experience issues with the technology components, please see the related [FAQs](https://developer-support.wacom.com/hc/en-us)
 
 For further support file a ticket in our **Developer Support Portal** described here: [Request Support](https://developer-support.wacom.com/hc/en-us/requests/new)
 
